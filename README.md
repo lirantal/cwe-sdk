@@ -1,4 +1,15 @@
 <p align="center"><h1 align="center">
+ ⚠️ IMPORTANT NOTICE ⚠️
+  </h1>
+</p>
+  
+<p align="center">
+    This project gratuated into the OWASP family and is now managed at <a href="https://github.com/OWASP/cwe-sdk-javascript">OWASP/cwe-sdk-javascript</a>
+</p>
+
+---
+
+<p align="center"><h1 align="center">
   cwe-sdk
 </h1>
 
